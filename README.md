@@ -15,7 +15,7 @@ QuairOne is a Windows desktop reader and editor built around a plugin architectu
 
 **Status:** the main program is being prepared for publication here — the codebase is being split so that everything published is open-source and free. This repository will hold the public source export, and currently carries the README, issues and release surface.
 
-**Download:** the latest Windows installer and release notes are on the site — [quairone.pages.dev](https://quairone.pages.dev/). You can also file feedback straight from the site; it lands as an issue here.
+**Download:** [QuairOne 0.2.115](https://github.com/villatothesea/QuairOne/releases/tag/v0.2.115) (12 November 2026). The canonical Windows installer and release notes are on the site — [quairone.pages.dev](https://quairone.pages.dev/). You can also file feedback straight from the site; it lands as an issue here.
 
 **Open-source components:**
 
